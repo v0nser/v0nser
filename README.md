@@ -50,6 +50,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=v0nser)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v0nser&layout=compact&theme=vision-friendly-dark)
 
 
