@@ -22,9 +22,9 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m a pre-final year student pursuing computer science at Chitkara University,
+- :telescope: I’m a final year student pursuing computer science at Chitkara University,
 
-- :seedling: Exploring Mobile Development 
+- :seedling: Exploring Data Engineering 
 
 - :zap: In my free time, I just create small projects, read tech articles and also watch videos.
 
