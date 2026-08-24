@@ -56,57 +56,6 @@
 
 <br/>
 
-### `◢◤ DEPLOYED_MODULES ◢◤`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h4>⚡ Enterprise Agentic Resolution Engine</h4>
-<sub><code>Python · FastAPI · Ollama (Llama 3.1) · React · TS</code></sub>
-
-Deterministic, defense-in-depth agentic architecture — local LLMs safely calling enterprise systems via strictly-typed function calling. Dual-tier guardrails + semantic cache → sub-10ms latency on recurring queries.
-
-<a href="https://REPLACE_PROJECT_LINK_1">↳ view repo</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h4>🩺 Take Care — Telehealth Platform</h4>
-<sub><code>React.js · Node.js · WebRTC · AI</code></sub>
-
-Full-stack platform with live video consults and an AI health assistant. RBAC + HIPAA-aligned data handling. WebRTC tuned for low-bandwidth survival mode.
-
-<a href="https://REPLACE_PROJECT_LINK_2">↳ view repo</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h4>🤖 AI Engineering Assistant</h4>
-<sub><code>Node.js · TypeScript · LLM</code></sub>
-
-Scans JIRA tickets, auto-generates fix recommendations — 50% faster resolution time.
-
-<a href="https://REPLACE_PROJECT_LINK_3">↳ view repo</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h4>🛡️ RouteGuard — NPM Middleware</h4>
-<sub><code>Node.js · Express · Jest</code></sub>
-
-Open-source validation middleware. 3,000+ monthly downloads, 95%+ test coverage.
-
-<a href="https://REPLACE_PROJECT_LINK_4">↳ view repo</a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
 
 ### `◢◤ SYSTEM METRICS ◢◤`
