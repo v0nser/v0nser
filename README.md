@@ -1,63 +1,117 @@
-<h1 align="center">Hi, I'm Vaibhav 👋</h1>
+<div align="center">
 
-<h3 align="center">Full-Stack Engineer · AI/ML Systems · Building things that ship</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=VAIBHAV%20SINGH&fontSize=55&fontColor=00ffea&animation=fadeIn&fontAlignY=38&desc=%3C%20FULL-STACK%20%2F%2F%20AI-ML%20ENGINEER%20%3E&descAlignY=58&descAlign=50" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FFEA&center=true&vCenter=true&width=650&lines=root%40vaibhav%3A~%24+whoami;%3E+full-stack+engineer+%7C+ai%2Fml+systems;%3E+building+agentic+AI+%40+GlobalLogic;%3E+status%3A+jacked+into+the+netherlands%2Fireland+grid;%3E+sudo+access%3A+granted" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EC866&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+GlobalLogic+(Hitachi);Shipping+RAG+pipelines+%26+agentic+AI+systems;Cutting+LLM+latency+to+sub-10ms%2C+one+cache+at+a+time;Always+debugging+something" />
-</p>
+<br/>
 
----
+<img src="https://img.shields.io/badge/-LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ffea&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ff00c8&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=00ffea&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ff00c8&labelColor=0d1117" />
 
-### 🚀 Currently
+</div>
 
-- 🔭 Building ML/LLM-based quality checks and agentic AI systems at **GlobalLogic (Hitachi Group)**
-- 🧠 Deep in RAG pipelines, vector search, and deterministic agent architectures
-- 🌍 Exploring opportunities in the **Netherlands / Ireland** — always open to a conversation
-- 🛠️ Side project: an **LLM observability tool** (think "Sentry, for LLM pipelines")
+<br/>
 
----
+```ansi
+[0;35m┌────────────────────────────────────────────────────────────────┐[0m
+[0;36m│  SYSTEM LOG :: CURRENT PROCESSES                                 │[0m
+[0;35m└────────────────────────────────────────────────────────────────┘[0m
 
-### ⚡ Some things I've shipped
+[0;32m[OK][0m Software Engineer @ GlobalLogic (Hitachi Group) — Gurugram
+[0;32m[OK][0m Shipping ML/LLM quality-check pipelines · 70% less human review
+[0;32m[OK][0m Re-architected vector DB ops → 90% query latency reduction
+[0;32m[RUN][0m Building an LLM observability tool — "Sentry, for LLM pipelines"
+[0;33m[SCAN][0m Scanning job markets :: Remote-EU
+```
 
-| Project | What it does |
-|---|---|
-| **Enterprise Agentic Resolution Engine** | Deterministic, defense-in-depth agentic AI arch — local LLMs safely calling enterprise tools via strict function calling. Semantic cache brings recurring-query latency to sub-10ms. |
-| **Take Care** | Full-stack telehealth platform — video consults, AI health assistant, HIPAA-aligned data handling, WebRTC tuned for low bandwidth. |
-| **RouteGuard** | Open-source Express middleware on npm — 3,000+ monthly downloads, 95%+ test coverage. |
-| **AI Engineering Assistant** | Scans JIRA tickets and generates fix recommendations, cutting resolution time by 50%. |
+<br/>
 
----
+<div align="center">
 
-### 🧰 Tech Stack
+### `◢◤ NEURAL STACK ◢◤`
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,fastapi,java,cpp,c&theme=dark" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,postgres,mysql,mongodb,redis&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,fastapi,java,cpp&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,postgres,mysql,mongodb,redis&theme=dark" />
 
-**AI/ML tooling:** RAG · LangChain · FAISS · TensorFlow · PyTorch · OpenAI API · Gemini API · Ollama
+<br/><br/>
 
----
+![RAG](https://img.shields.io/badge/RAG-ff00c8?style=flat-square&labelColor=0d1117)
+![LangChain](https://img.shields.io/badge/LangChain-00ffea?style=flat-square&labelColor=0d1117&logoColor=00ffea)
+![FAISS](https://img.shields.io/badge/FAISS-ff00c8?style=flat-square&labelColor=0d1117)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00ffea?style=flat-square&labelColor=0d1117)
+![PyTorch](https://img.shields.io/badge/PyTorch-ff00c8?style=flat-square&labelColor=0d1117)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-00ffea?style=flat-square&labelColor=0d1117)
+![Gemini](https://img.shields.io/badge/Gemini_API-ff00c8?style=flat-square&labelColor=0d1117)
+![Ollama](https://img.shields.io/badge/Ollama-00ffea?style=flat-square&labelColor=0d1117)
 
-### 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+### `◢◤ DEPLOYED_MODULES ◢◤`
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center"><i>Full-stack by trade, AI/ML by obsession.</i></p>
+**⚡ Enterprise Agentic Resolution Engine**
+`Python · FastAPI · Ollama (Llama 3.1) · React · TS`
+
+Deterministic, defense-in-depth agentic architecture — local LLMs safely calling enterprise systems via strictly-typed function calling. Dual-tier guardrails + semantic cache → sub-10ms latency on recurring queries.
+
+</td>
+<td width="50%" valign="top">
+
+**🩺 Take Care — Telehealth Platform**
+`React.js · Node.js · WebRTC · AI`
+
+Full-stack platform with live video consults and an AI health assistant. RBAC + HIPAA-aligned data handling. WebRTC tuned for low-bandwidth survival mode.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 AI Engineering Assistant**
+`Node.js · TypeScript · LLM`
+
+Scans JIRA tickets, auto-generates fix recommendations — 50% faster resolution time.
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ RouteGuard — NPM Middleware**
+`Node.js · Express · Jest`
+
+Open-source validation middleware. 3,000+ monthly downloads, 95%+ test coverage.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### `◢◤ SYSTEM METRICS ◢◤`
+
+<img src="https://github-readme-stats.vercel.app/api?username=v0nser&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffea&icon_color=ff00c8&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonser&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffea&text_color=c9d1d9" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vonser&theme=tokyonight&hide_border=true&background=0d1117&ring=ff00c8&fire=00ffea&currStreakLabel=00ffea" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=v0nser&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffea&line=ff00c8&point=ffffff" width="100%"/>
+
+</div>
+
+<br/>
+
+```ansi
+[0;35m> connection established. terminal open. drop a message.[0m
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
