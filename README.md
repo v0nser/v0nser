@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=VAIBHAV%20SINGH&fontSize=55&fontColor=00ffea&animation=fadeIn&fontAlignY=38&desc=%3C%20FULL-STACK%20%2F%2F%20AI-ML%20ENGINEER%20%3E&descAlignY=58&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FFEA&center=true&vCenter=true&width=650&lines=root%40vaibhav%3A~%24+whoami;%3E+full-stack+engineer+%7C+ai%2Fml+systems;%3E+building+agentic+AI+%40+GlobalLogic;%3E+status%3A+jacked+into+the+netherlands%2Fireland+grid;%3E+sudo+access%3A+granted" />
-
 <br/>
 
 <img src="https://img.shields.io/badge/-LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ffea&labelColor=0d1117" />
