@@ -27,7 +27,6 @@
 [0;32m[OK][0m   Vector DB ops re-architected → 90% query latency reduction
 [0;32m[OK][0m   Traffic canary framework live → 30% fewer 4XX/5XX in prod
 [0;33m[RUN][0m  Compiling LLM observability tool — "Sentry, for LLM pipelines"
-[0;33m[SCAN][0m Probing job markets :: Netherlands :: Ireland :: Remote-EU
 [0;34m[INFO][0m 2.5 YOE · B.E. Computer Science · 9.2 CGPA
 ```
 
